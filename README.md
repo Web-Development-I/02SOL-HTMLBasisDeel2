@@ -12,7 +12,7 @@ Preview oplossingen:
   - [Opdracht 3](https://web-development-i.github.io/02SOL-HTMLBasisDeel2/oefening02-lists-hyperlinks/opdracht03.html)
   - [Opdracht 4](https://web-development-i.github.io/02SOL-HTMLBasisDeel2/oefening02-lists-hyperlinks/opdracht04.html)
   - [Opdracht 5](https://web-development-i.github.io/02SOL-HTMLBasisDeel2/oefening02-lists-hyperlinks/opdracht05.html)
-- [oefening03-paginastructuur](https://web-development-i.github.io/02SOL-HTMLBasisDeel2/oefening03-paginastructuur/oefening3.png)
+- [oefening03-paginastructuur](https://web-development-i.github.io/02SOL-HTMLBasisDeel2/oefening03-paginastructuur/oefening03.png)
 - [oefening04-hyperlinks-afbeeldingen](https://web-development-i.github.io/02SOL-HTMLBasisDeel2/oefening04-hyperlinks-afbeeldingen)
 - [oefening05-afbeeldingen-wolven](https://web-development-i.github.io/02SOL-HTMLBasisDeel2/oefening05-afbeeldingen-wolven)
 - [oefening06_vanderBeken](https://web-development-i.github.io/02SOL-HTMLBasisDeel2/oefening06_vanderBeken)
